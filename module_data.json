@@ -1,0 +1,47 @@
+[{
+    "code": "COMP34711",
+    "name": "Natural Language Processing",
+    "year": 3,
+    "prerequisites": [
+        "COMP24112 Machine learning",
+        "COMP11120 Mathematical Techniques for Computer Science",
+        "MATH11121 (CM) Mathematical foundations and analysis"
+    ],
+    "tags": [
+        "language models",
+        "nlp",
+        "deep learning"
+    ]
+},
+{
+    "code": "COMP34612",
+    "name": "Computational Game Theory",
+    "year": 3,
+    "prerequisites": [
+        "COMP11120 Mathematical Techniques for Computer Science",
+        "COMP13212 Data Science",
+        "COMP24112 Machine learning",
+        "MATH11121 (CM) Mathematical foundations and analysis",
+        "MATH10111 Foundations of pure mathematics B"
+    ],
+    "corequisites": ["COMP34111 AI and Games"],
+    "tags": [
+        "machine learning",
+        "optimisation",
+        "game theory"
+    ]
+},
+{
+    "code": "COMP38412",
+    "name": "Cybersecurity: Principles and Secure Software Systems",
+    "year": 3,
+    "prerequisites": [
+        "COMP15111 Fundamentals of Computer Architecture",
+        "COMP11212 Fundamentals of Computation"
+    ],
+    "tags": [
+        "cybersecurity",
+        "cyber-physical systems",
+        "cryptography"
+    ]
+}]

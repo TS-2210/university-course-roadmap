@@ -1,0 +1,26 @@
+{
+    "quant trader": [
+        "probability",
+        "statistics",
+        "optimisation"
+    ],
+    "machine learning engineer": [
+        "machine learning",
+        "ai",
+        "deep learning",
+        "data science",
+        "statistics",
+        "probability"
+    ],
+    "data scientist": [
+        "data science",
+        "statistics",
+        "probability",
+        "machine learning",
+        "ai"
+    ],
+    "cybersecurity engineer": [
+        "cybersecurity",
+        "cryptography"
+    ]
+}
